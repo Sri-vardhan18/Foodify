@@ -4,6 +4,7 @@ import HeaderCartButton from './HeaderCartButton';
 import mealsImage from '../../assets/meal.jpg';
 import classes from './Header.module.css';
 
+
 const Header = (props) => {
   return (
     <Fragment>
